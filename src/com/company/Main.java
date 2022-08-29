@@ -17,5 +17,11 @@ public class Main {
         omaro.name="ferro";
         omaro.radius=123654654;
         omaro.temperature="15161616516";
+
+        //planet2
+        Planet2 superwomen = new Planet2();
+        superwomen.color="green";
+        superwomen.size="324323km";
+        superwomen.name="liena";
     }
 }
