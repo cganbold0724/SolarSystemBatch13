@@ -17,5 +17,11 @@ public class Main {
         omaro.name="ferro";
         omaro.radius=123654654;
         omaro.temperature="15161616516";
+
+        //developing planet1
+        Planet1 superplanet = new Planet1();
+        superplanet.color="magenta";
+        superplanet.name="hash";
+        superplanet.size="545488km";
     }
 }
